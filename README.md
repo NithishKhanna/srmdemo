@@ -1,2 +1,1 @@
-# srmdemo
-flightticketbooking
+# SRM
